@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="anubhabmondal496-coder's GitHub profile" src="dark_mode.svg" />
-</picture>
+<div align="center">
+  <img src="assets/ascii_portrait.png" alt="Monochrome ASCII Portrait of a Young Man" width="380" />
+</div>
 
 <p align="center">
   <b>Computer Science & Engineering • AI / ML • Computer Vision • Software Development</b>
@@ -26,7 +24,7 @@ I'm currently exploring deeper areas of **Machine Learning, Deep Learning, Compu
 
 ## What I Build
 
-- 🤖 **AI & Machine Learning** — model experimentation and applied ML
+- 🧑‍💻 **AI & Machine Learning** — model experimentation and applied ML
 - 👁️ **Computer Vision** — OpenCV, MediaPipe, real-time vision and gesture systems
 - 🧠 **Deep Learning** — CNNs and exploration of generative and sequence models
 - 🧩 **Algorithms & DSA** — problem solving with C/C++
@@ -70,7 +68,7 @@ The goal is not only to use these models, but to understand their **mathematics,
 
 ## 3D / Creative Lab
 
-I'm also building toward a **Blender 3D room showcase** as a visual counterpart to the software and AI projects on this profile.
+I'm also building towards a **Blender 3D room showcase** as a visual counterpart to the software and AI projects on this profile.
 
 The intended showcase will contain:
 - a rendered screenshot of the room model
